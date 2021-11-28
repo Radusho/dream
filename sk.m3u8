@@ -17,7 +17,7 @@ https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:0,WauTV.sk
 #EXTVLCOPT:network-caching=1000
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:0 tvg-id="" tvg-name="RTVS1" tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png",RTVS1.sk
+#EXTINF:0 tvg-name="RTVS1" tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png",RTVS1.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
 #EXTINF:0 tvg-id="" tvg-name="RTVS2" tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png",RTVS2.sk
