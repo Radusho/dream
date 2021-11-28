@@ -1,8 +1,8 @@
-#EXT:m3u
+EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="RTVS2" tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png",RTVS2.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
-#EXTINF:0 tvg-id="" tvg-name="RTVS3" tvg-logo="https://github.com/Radusho/dream/blob/main/stv3.png",RTVS3.sk
+#EXTINF:-1 tvg-id="" tvg-name="RTVS3" tvg-logo="https://github.com/Radusho/dream/blob/main/stv3.png",RTVS3.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
 #
