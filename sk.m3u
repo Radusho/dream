@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,TVMarkiza.sk
+#EXTVLCOPT:network-caching=1000
+http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:0,JojFamily.sk
+#EXTVLCOPT:network-caching=1000
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:0,TVJoj.sk
+#EXTVLCOPT:network-caching=1000
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:0,JojPlus.sk
+#EXTVLCOPT:network-caching=1000
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",WauTV.sk
+#EXTVLCOPT:network-caching=1000
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+#EXTINF:0 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png",RTVS1.sk
+#EXTVLCOPT:network-caching=1000
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+#EXTINF:0 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png",RTVS2.sk
+#EXTVLCOPT:network-caching=1000
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv3.png",RTVS3.sk
+#EXTVLCOPT:network-caching=1000
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+#EXTINF:0,TA3.sk
+#EXTVLCOPT:network-caching=1000
+http://sktv-forwarders.7m.pl/get.php?x=TA3
+#EXTINF:0,CNNPrimaNews.us
+#EXTVLCOPT:network-caching=1000
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:0,telKE
+#EXTVLCOPT:network-caching=1000
+https://tvgo02.antik.sk/live/test_telke/playlist_key_url.m3u8
+#EXTINF:0,NR SR
+#EXTVLCOPT:network-caching=1000
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
