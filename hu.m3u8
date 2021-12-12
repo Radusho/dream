@@ -8,9 +8,22 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:0,COOL TV HD
 #EXTVLCOPT:network-caching=1000
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:0,RTL+
+#EXTVLCOPT:network-caching=1000
+https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
+#EXTINF:0,RTL2
+#EXTVLCOPT:network-caching=1000
+https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:0,RTL KLUB
 #EXTVLCOPT:network-caching=1000
-https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8#EXTINF:0,HBO HD
+https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:0,RTL Gold
+#EXTVLCOPT:network-caching=1000
+https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
+#EXTINF:0,Sorozat+
+#EXTVLCOPT:network-caching=1000
+https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
+#EXTINF:0,HBO HD
 #EXTVLCOPT:network-caching=1000
 http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:0,HBO2 HD
@@ -22,6 +35,15 @@ http://194.76.186.32:8030/play/a003/index.m3u8
 #EXTINF:0,Epic Drama
 #EXTVLCOPT:network-caching=1000
 http://79.114.34.202:8000/play/a02n
+#EXTINF:0,Viasat Explore HD
+#EXTVLCOPT:network-caching=1000
+http://194.76.186.32:8030/play/a00t/index.m3u8
+#EXTINF:0,Viasat Nature HD
+#EXTVLCOPT:network-caching=1000
+http://194.76.186.32:8030/play/a00s/index.m3u8
+#EXTINF:0,Viasat History HD
+#EXTVLCOPT:network-caching=1000
+http://194.76.186.32:8030/play/a00u/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/classicstv.png",CLASSICS TV
 #EXTVLCOPT:network-caching=1000
 https://stream.diazol.hu:7152/hls/live.m3u8
