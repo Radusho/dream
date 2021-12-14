@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",ČT1
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/CT/ct1.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct2.png",ČT2
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/CT/ct2.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct24.png",ČT24
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/CT/ct24.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ctart.png",ČT art
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/CT/ctart.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/prima.png",Prima
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/prima.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primacool.png",Prima Cool
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/cool.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primamax.png",Prima Max
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/max.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primakrimi.png",Prima Krimi
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/krimi.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primalove.png",Prima Love
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/love.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primazoom.png",Prima Zoom
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/zoom.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primashow.png",Prima Show
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/show.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/primastar.png",Prima Star
+#EXTVLCOPT:network-caching=1000
+https://parrotstream.tk/Prima/star.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/nova.png",NOVA HD
+#EXTVLCOPT:network-caching=1000
+http://103.194.169.171:8282/CZ_NOVA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/novacinema.png",NOVA CINEMA HD
+#EXTVLCOPT:network-caching=1000
+http://103.194.169.171:8282/CZ_NOVA_CINEMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/jojcinema.png",JOJ CINEMA HD
+#EXTVLCOPT:network-caching=1000
+http://103.194.169.171:8282/CZ_JOJ_CINEMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbo.png",HBOLatinoamerica.us
+#EXTVLCOPT:network-caching=1000
+http://103.194.169.171:8282/CZ_HBO_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbohd.png",HBOEast.us
+#EXTVLCOPT:network-caching=1000
+http://190.171.101.36/HBO/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/NBC.png",NBCEast.us
+#EXTVLCOPT:network-caching=1000
+https://ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NBC&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.243:8999/play/a00d
+#EXTINF:0,Viasat Nature HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.243:8999/play/a00f
+#EXTINF:0,Viasat History HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.243:8999/play/a00e
