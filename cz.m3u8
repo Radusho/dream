@@ -50,6 +50,9 @@ http://103.194.169.171:8282/CZ_HBO_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbohd.png",HBOEast.us
 #EXTVLCOPT:network-caching=1000
 http://190.171.101.36/HBO/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/CineMax.png",CinemaxEast.us
+#EXTVLCOPT:network-caching=1000
+http://ip2121.com:8081/live/cinemax/playlist.m3u8 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/NBC.png",NBCEast.us
 #EXTVLCOPT:network-caching=1000
 https://ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NBC&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69
