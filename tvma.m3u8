@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",TV Markiza FHD SK
-https://list.iptvcat.com/my_list/s/a615057007d3210b4e905128fff3dfa9.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/tvma.png",Markíza
+#EXTVLCOPT:network-caching=1000
+http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
