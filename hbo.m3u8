@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbomx.png",HBOLatinoamerica.us
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbomx.png",HBOLatinoamerica.us
 #EXTVLCOPT:network-caching=1000
 http://190.171.101.36/HBO/index.m3u8
-#EXTINF:0 tvg-name="HBO Signature Full HD" tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/HBO_Signature.png",HBOSignatureLatinoamerica.us
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/HBO_Signature.png",HBOSignatureLatinoamerica.us
 #EXTVLCOPT:network-caching=1000
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
 #EXTINF:0,HBO HD
