@@ -17,7 +17,7 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:0,5Kanal.ru
 #EXTVLCOPT:network-caching=1000
 http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5ezLSwB.png" group-title="Science",SciFiRussia.us
+#EXTINF:0 tvg-logo="https://i.imgur.com/5ezLSwB.png",SciFiRussia.us
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ngw.png",NationalGeographicWildRussia.us
 #EXTVLCOPT:network-caching=1000
