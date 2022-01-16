@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
+#EXTINF:-1,TVP Polonia FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9843
+#EXTINF:11.136,TVP 1 HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7271
+#EXTINF:13.3994,TVP 2 FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5226
+#EXTINF:-1,Polsat Film FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5253
+#EXTINF:-1,Polsat Film
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7283
+#EXTINF:-1,Polsat HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7286
+#EXTINF:-1,Polsat2 FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7285
+#EXTINF:-1,Paramount Channel FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9829
+#EXTINF:-1,Kino Polska
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5237
+#EXTINF:-1,Fox Comedy HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9875
+#EXTINF:-1,Film Box Extra HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9876
+#EXTINF:-1,Film Box Premium FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5230
+#EXTINF:-1,Film Box Family
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5231
+#EXTINF:-1,Film Box Action
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7296
+#EXTINF:-1,Polsat Viasat Explore FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9900
+#EXTINF:-1,Polsat Viasat History FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9811
+#EXTINF:-1,Polsat Viasat Nature
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9810
+#EXTINF:-1,Discovery
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7298
+#EXTINF:-1,Discovery science FHD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5234
+#EXTINF:-1,National Geo HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7288
