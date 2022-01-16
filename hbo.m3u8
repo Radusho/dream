@@ -14,19 +14,19 @@ http://194.76.186.32:8030/play/a002/index.m3u8
 #EXTINF:0,HBO3 HD
 #EXTVLCOPT:network-caching=1000
 http://194.76.186.32:8030/play/a003/index.m3u8
-#EXTINF:-1,Cinemax FHD
+#EXTINF:0,Cinemax FHD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5246
-#EXTINF:-1,Cinemax 2 FHD VIP
+#EXTINF:0,Cinemax 2 FHD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5245
-#EXTINF:27.072,HBO 1 FHD [Multi-Audio]
+#EXTINF:27.072,HBO 1 FHD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5223
-#EXTINF:-1,HBO HD
+#EXTINF:0,HBO HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7293
-#EXTINF:-1,HBO 2 FHD
+#EXTINF:0,HBO 2 FHD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7292
-#EXTINF:-1,HBO 2
+#EXTINF:0,HBO 2
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5222
-#EXTINF:-1,HBO 3 FHD [Multi-Audio]
+#EXTINF:0,HBO 3 FHD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7291
 
 
