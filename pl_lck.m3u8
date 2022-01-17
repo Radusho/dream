@@ -1,41 +1,41 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
-#EXTINF:-1,TVP Polonia FHD
+#EXTINF:0,TVP Polonia HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9843
-#EXTINF:11.136,TVP 1 HD
+#EXTINF:0,TVP 1 HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7271
-#EXTINF:13.3994,TVP 2 FHD
+#EXTINF:0,TVP 2 HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5226
-#EXTINF:-1,Polsat Film FHD
+#EXTINF:0,Polsat Film HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5253
-#EXTINF:-1,Polsat Film
+#EXTINF:0,Polsat Film
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7283
-#EXTINF:-1,Polsat HD
+#EXTINF:0,Polsat HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7286
-#EXTINF:-1,Polsat2 FHD
+#EXTINF:0,Polsat2 HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7285
-#EXTINF:-1,Paramount Channel FHD
+#EXTINF:0,Paramount Channel HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9829
-#EXTINF:-1,Kino Polska
+#EXTINF:0,Kino Polska
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5237
-#EXTINF:-1,Fox Comedy HD
+#EXTINF:0,Fox Comedy HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9875
-#EXTINF:-1,Film Box Extra HD
+#EXTINF:0,Film Box Extra HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9876
-#EXTINF:-1,Film Box Premium FHD
+#EXTINF:0,Film Box Premium HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5230
-#EXTINF:-1,Film Box Family
+#EXTINF:0,Film Box Family
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5231
-#EXTINF:-1,Film Box Action
+#EXTINF:0,Film Box Action
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7296
-#EXTINF:-1,Polsat Viasat Explore FHD
+#EXTINF:0,Polsat Viasat Explore HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9900
-#EXTINF:-1,Polsat Viasat History FHD
+#EXTINF:0,Polsat Viasat History HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9811
-#EXTINF:-1,Polsat Viasat Nature
+#EXTINF:0,Polsat Viasat Nature
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/9810
-#EXTINF:-1,Discovery
+#EXTINF:0,Discovery
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7298
-#EXTINF:-1,Discovery science FHD
+#EXTINF:0,Discovery science HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5234
-#EXTINF:-1,National Geo HD
+#EXTINF:0,National Geo HD
 http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7288
