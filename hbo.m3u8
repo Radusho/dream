@@ -18,5 +18,5 @@ http://internetowa.tv/?c=hlsPlay&channel=hbo&token=213f9b5775ca164e0a38ad1b1a7c0
 #EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="HBO 3" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo3hd.png",HBO 3
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
