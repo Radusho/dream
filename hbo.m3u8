@@ -6,17 +6,35 @@ http://190.171.101.36/HBO/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
 #EXTINF:0 type="stream" tvg-name="Cinemax" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemaxhd.png",Cinemax
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://81.97.217.217:8001/1:0:1:1136:2af8:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Cinemax 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemax2hd.png",Cinemax 2
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://81.97.217.217:8001/1:0:1:c26:1e78:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="HBO" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo1hd.png",HBO
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=hbo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://81.97.217.217:8001/1:0:1:290f:1edc:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="HBO 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo2hd.png",HBO 2
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://81.97.217.217:8001/1:0:1:e09:2d50:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="HBO 3" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo3hd.png",HBO 3
-#EXTVLCOPT--http-reconnect=true
-http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://81.97.217.217:8001/1:0:1:e0a:2d50:13e:820000:0:0:0:
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://82.197.212.210:8000/play/a11d/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://194.76.186.32:8030/play/a002/index.m3u8
+#EXTINF:0,HBO3 HD
+#EXTVLCOPT:network-caching=1000
+http://194.76.186.32:8030/play/a003/index.m3u8
+#EXTINF:0,Cinemax HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5246
+#EXTINF:0,Cinemax 2 HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5245
+#EXTINF:0,HBO HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7293
+#EXTINF:0,HBO 1 HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5223
+#EXTINF:0,HBO 2 HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7292
+#EXTINF:0,HBO 2
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5222
+#EXTINF:0,HBO 3 HD
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/7291
