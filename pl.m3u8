@@ -35,7 +35,7 @@ http://81.97.217.217:8001/1:0:1:c20:1e78:71:820000:0:0:0:
 http://81.97.217.217:8001/1:0:1:1ccd:1ce8:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="National Geographic" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/natgeohdcz.png",National Geographic
 http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-##EXTINF:0 type="stream" tvg-name="Discovery" tvg-logo="http://s19.postimg.cc/lnw1trn2r/Discovery_Channel.png",Discovery
+#EXTINF:0 type="stream" tvg-name="Discovery" tvg-logo="http://s19.postimg.cc/lnw1trn2r/Discovery_Channel.png",Discovery
 http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Discovery Science" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoverysciencehd.png",Discovery Science
 http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
