@@ -74,3 +74,5 @@ https://parrotstream.tk/Prima/love.m3u8
 #EXTINF:231,family-540.m3u8
 #EXTVLCOPT:network-caching=1000
 http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:0 type="stream" tvg-name="Playboy TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/playboytvhot.png",Playboy TV
+http://81.97.217.217:8001/1:0:1:1135:2af8:13e:820000:0:0:0:
