@@ -26,6 +26,12 @@ https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:0,5Kanal.ru
 #EXTVLCOPT:network-caching=1000
 http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:0 tvg-id="Kinokomediya.ru" tvg-language="Russian",Кинокомедия (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sc.id-tv.kz/Kinokomediya_hd.m3u8
+#EXTINF:0 tvg-id="Kinopremera.ru" tvg-language="Russian",Кинопремьера (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 #EXTINF:0 tvg-id="Domkino.ru" tvg-language="Russian",Дом кино
 #EXTVLCOPT:network-caching=1000
 http://91.185.3.218:4000/play/606
