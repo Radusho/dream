@@ -2,71 +2,48 @@
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:0 type="stream" tvg-name="TVP 1" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvp1hd.png",TVP 1
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="TVP 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvp2hd.png",TVP 2
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="TV Polonia" tvg-logo="http://s19.postimg.cc/bk7sgzn9v/TVP_Polonia.png",TVP Polonia
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=tvppolonia&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsathd.png",Polsat
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=polsat&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsat2hd.png",Polsat 2
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=polsat2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat Film" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatfilmhd.png",Polsat Film
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Kino Polska" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/kinopolska.png",Kino Polska
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Paramount Channel HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountchannelhd.png",Paramount Channel
-#EXTVLCOPT:network-caching=1000
 http://81.97.217.217:8001/1:0:19:D:1964:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Fox Comedy" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxcomedyhd.png",Fox Comedy
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Extra" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxextrahdsvt.png",Filmbox Extra
-#EXTVLCOPT:network-caching=1000
 http://81.97.217.217:8001/1:0:1:3d68:2c88:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Filmbox Action" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxaction.png",Filmbox Action
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Family" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxfamilysvt.png",Filmbox Family
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Premium" tvg-logo="http://s19.postimg.cc/kfhczm9w3/Filmbox_Premium.png",Filmbox Premium
-#EXTVLCOPT:network-caching=1000
 http://81.97.217.217:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-logo="https://internetowa.tv/img/logo/kino-tv.png",Kino TV
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-logo="https://internetowa.tv/img/logo/comedy-central.png",Comedy Central
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat Explorer" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasatexplorehd.png",Polsat Viasat Explore
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat History" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasathistoryhd.png",Polsat Viasat History
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=polsatviasathistory&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat Nature" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/viasatnaturehd.png",Polsat Viasat Nature
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="National Geographic" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/natgeohdcz.png",National Geographic
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Discovery" tvg-logo="http://s19.postimg.cc/lnw1trn2r/Discovery_Channel.png",Discovery
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=discovery&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Discovery Science" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoverysciencehd.png",Discovery Science
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-logo="https://internetowa.tv/img/logo/canal-plus-discovery.png",Canal+ Discovery
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-logo="https://internetowa.tv/img/logo/animal-planet.png",Animal Planet
-#EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
