@@ -2,12 +2,24 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbomx.png",HBOLatinoamerica.us
 #EXTVLCOPT:network-caching=1000
 http://190.171.101.36/HBO/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/HBO_Signature.png",HBOSignatureLatinoamerica.us
-#EXTVLCOPT:network-caching=1000
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
-#EXTINF:0 type="stream" tvg-name="Cinemax" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemaxhd.png",Cinemax
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/cinemax.png",Cinemax
 #EXTVLCOPT:network-caching=1000
 http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/cinemax-2.png",Cinemax 2
+#EXTVLCOPT:network-caching=1000
+http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/hbo.png",HBO
+#EXTVLCOPT:network-caching=1000
+http://internetowa.tv/?c=hlsPlay&channel=hbo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/hbo-2.png",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/hbo-3.png",HBO 3
+#EXTVLCOPT:network-caching=1000
+http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:0 type="stream" tvg-name="Cinemax" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemaxhd.png",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://81.97.217.217:8001/1:0:1:1136:2af8:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Cinemax 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemax2hd.png",Cinemax 2
 http://81.97.217.217:8001/1:0:1:c26:1e78:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="HBO" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo1hd.png",HBO
