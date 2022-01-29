@@ -27,9 +27,9 @@ http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=213f9b5775ca164e0a3
 http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Premium" tvg-logo="http://s19.postimg.cc/kfhczm9w3/Filmbox_Premium.png",Filmbox Premium
 http://81.97.217.217:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/kino-tv.png",Kino TV
+#EXTINF:0 type="stream" tvg-logo="https://internetowa.tv/img/logo/kino-tv.png",Kino TV
 http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/comedy-central.png",Comedy Central
+#EXTINF:0 type="stream" tvg-logo="https://internetowa.tv/img/logo/comedy-central.png",Comedy Central
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat Explorer" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasatexplorehd.png",Polsat Viasat Explore
 http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
