@@ -16,17 +16,17 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=213f9b5775ca164e0a38ad
 #EXTINF:0 type="stream" tvg-name="Kino Polska" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/kinopolska.png",Kino Polska
 http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Paramount Channel HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountchannelhd.png",Paramount Channel
-http://81.97.217.217:8001/1:0:19:D:1964:13E:820000:0:0:0:
+http://83.238.167.113:8001/1:0:19:D:1964:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Fox Comedy" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxcomedyhd.png",Fox Comedy
 http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Extra" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxextrahdsvt.png",Filmbox Extra
-http://81.97.217.217:8001/1:0:1:3d68:2c88:13e:820000:0:0:0:
+http://83.238.167.113:8001/1:0:1:3d68:2c88:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Filmbox Action" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxaction.png",Filmbox Action
 http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Family" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxfamilysvt.png",Filmbox Family
 http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Filmbox Premium" tvg-logo="http://s19.postimg.cc/kfhczm9w3/Filmbox_Premium.png",Filmbox Premium
-http://81.97.217.217:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
+http://83.238.167.113:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Kino TV" tvg-logo="https://internetowa.tv/img/logo/kino-tv.png",Kino TV
 http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Comedy Central" tvg-logo="https://internetowa.tv/img/logo/comedy-central.png",Comedy Central
