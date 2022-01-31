@@ -36,5 +36,5 @@ http://televizoro.tk:25461/live/roforum.net/roforum.net/14771.ts
 #EXTVLCOPT:network-caching=1000
 http://televizoro.tk:25461/live/roforum.net/roforum.net/14782.ts
 #EXTINF:0 type="stream" tvg-name="Filmbox Family",Filmbox Family
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 http://televizoro.tk:25461/live/roforum.net/roforum.net/14750.ts
