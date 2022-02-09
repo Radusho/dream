@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,TVMarkiza.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/tvma.png",TVMarkiza.sk
 #EXTVLCOPT:network-caching=1000
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:0,JojFamily.sk
