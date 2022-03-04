@@ -17,7 +17,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=213f9b5775ca164e0a38ad
 http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Paramount Channel HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountchannelhd.png",Paramount Channel
 http://83.238.167.113:8001/1:0:19:D:1964:13E:820000:0:0:0:
-#EXTINF:0 type="stream" tvg-name="Universal Channel" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/universalchannelhd.png" tvg-country="PL",Universal HD
+#EXTINF:0 type="stream" tvg-name="Universal Channel" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/universalchannelhd.png",Universal HD
 http://83.238.167.113:8001/1:0:1:3e20:2ee0:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Fox Comedy" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxcomedyhd.png",Fox Comedy
 http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
@@ -33,20 +33,20 @@ http://83.238.167.113:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
 http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Comedy Central" tvg-logo="https://internetowa.tv/img/logo/comedy-central.png",Comedy Central
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="EPIC Drama HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/epicdramahd.png" tvg-country="PL",Epic Drama
+#EXTINF:0 type="stream" tvg-name="EPIC Drama HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/epicdramahd.png",Epic Drama
 http://83.238.167.113:8001/1:0:1:4290:2bc0:13e:820000:0:0:0:
-#EXTINF:0 type="stream" tvg-name="SciFi" tvg-logo="https://epg.ovh/logo/Scifi+Universal+HD.png" tvg-country="PL",SciFi
-http://83.238.167.113:8001/1:0:1:3e2e:2ee0:13e:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/scifi.png" ,SCI FI
+http://internetowa.tv/?c=hlsPlay&channel=scifi&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat Explorer" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasatexplorehd.png",Polsat Viasat Explore
 http://83.238.167.113:8001/1:0:1:1cca:1ce8:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Viasat History" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasathistoryhd.png",Polsat Viasat History
 http://83.238.167.113:8001/1:0:1:c20:1e78:71:820000:0:0:0:
-#EXTINF:0 type="stream" tvg-name="Viasat Nature" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/viasatnaturehd.png",Polsat Viasat Nature
-http://83.238.167.113:8001/1:0:1:1ccd:1ce8:71:820000:0:0:0:
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-viasat-nature.png" ,Polsat Viasat Nature
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="National Geographic" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/natgeohdcz.png",National Geographic
 http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="Nat Geo Wild HD" tvg-logo="http://s19.postimg.cc/ujjv0zus3/Nat_Geo_Wild.png" tvg-country="PL",Nat Geo Wild
-http://83.238.167.113:8001/1:0:1:1137:2af8:13e:820000:0:0:0:
+#EXTINF:0 type="stream" tvg-name="Nat Geo Wild HD" tvg-logo="http://s19.postimg.cc/ujjv0zus3/Nat_Geo_Wild.png",Nat Geo Wild
+http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Discovery" tvg-logo="http://s19.postimg.cc/lnw1trn2r/Discovery_Channel.png",Discovery
 http://internetowa.tv/?c=hlsPlay&channel=discovery&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Discovery Science" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoverysciencehd.png",Discovery Science
@@ -55,5 +55,5 @@ http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=213f9b5775ca164e
 http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Animal Planet" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/animalplnthd.png",Animal Planet
 http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="Eurosport" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport1hdaustria.png" tvg-country="PL",Eurosport 1
-http://83.238.167.113:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/eurosport.png" ,Eurosport 1
+http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
