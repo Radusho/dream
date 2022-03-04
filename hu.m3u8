@@ -53,6 +53,3 @@ http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/classicstv.png",Classics TV
 #EXTVLCOPT:network-caching=1000
 https://stream.diazol.hu:7152/hls/live.m3u8
-#EXTINF:0 type="stream" tvg-name="Filmbox Family",Filmbox Family
-#EXTVLCOPT:network-caching=1000
-http://televizoro.tk:25461/live/roforum.net/roforum.net/14750.ts
