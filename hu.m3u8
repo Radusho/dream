@@ -2,7 +2,7 @@
 #EXTINF:0,M1
 #EXTVLCOPT:network-caching=1000
 http://78.109.104.240:8000/play/a0bs/index.m3u8?HasBahCa.m3u8
-#EXTINF:0,M2 / Petőfi TV
+#EXTINF:0,M2
 #EXTVLCOPT:network-caching=1000
 http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8
 #EXTINF:0,M3
