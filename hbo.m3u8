@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.ovh/pl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/hbomx.png",HBOLatinoamerica.us
 #EXTVLCOPT:network-caching=1000
 http://190.171.101.36/HBO/index.m3u8
