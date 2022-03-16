@@ -11,9 +11,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:0,Rossiya24.ru
 #EXTVLCOPT:network-caching=1000
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/fox.png",FoxRussia.us
-#EXTVLCOPT:network-caching=1000
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:0,Perviykanal.ru
 #EXTVLCOPT:network-caching=1000
 http://ott-cdn.ucom.am/s14/04.m3u8
@@ -24,6 +21,7 @@ http://91.185.3.218:4000/play/603
 #EXTVLCOPT:network-caching=1000
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 Первый канал Евразия (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/1KanalEvraziya.m3u8
 #EXTINF:0 tvg-id="5kanal.ru" tvg-logo="https://i.imgur.com/tWULJqX.png",5 канал
 #EXTVLCOPT:network-caching=1000
@@ -73,4 +71,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YkvX94D.png",Viasat Nature Russia HD
 #EXTVLCOPT:network-caching=1000
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/fox.png",FoxRussia.us
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
