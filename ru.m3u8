@@ -17,10 +17,10 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:0 tvg-id="Pervyykanal.ru" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал
 #EXTVLCOPT:network-caching=1000
 http://91.185.3.218:4000/play/603
-#EXTINF:0, Первый канал HD
+#EXTINF:0,Первый канал HD
 #EXTVLCOPT:network-caching=1000
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:0, Первый канал Евразия (576p) [Not 24/7]
+#EXTINF:0,Первый канал Евразия
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/1KanalEvraziya.m3u8
 #EXTINF:0 tvg-id="5kanal.ru" tvg-logo="https://i.imgur.com/tWULJqX.png",5 канал
