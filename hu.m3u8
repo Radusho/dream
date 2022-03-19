@@ -20,7 +20,7 @@ http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8
 #EXTINF:0,Duna TV
 #EXTVLCOPT:network-caching=1000
 https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8
-#EXTINF:0,Duna TV HD
+#EXTINF:0,Danube
 #EXTVLCOPT:network-caching=1000
 https://streaming.mytvback.com:443/stream/zdIMfSYWLWibN_zTM1BFcA/1647727874/channel003/stream.m3u8
 #EXTINF:0,Duna World
