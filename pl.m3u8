@@ -15,7 +15,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsat2&token=213f9b5775ca164e0a38ad1b1
 http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Kino Polska" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/kinopolska.png",Kino Polska
 http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="Paramount Channel HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountchannelhd.png",Paramount Channel
+#EXTINF:0 type="stream" tvg-name="Paramount Channel Poland" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountchannelhd.png",ParamountChannelPoland.us
 http://83.238.167.113:8001/1:0:19:D:1964:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Universal Channel" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/universalchannelhd.png",Universal HD
 http://83.238.167.113:8001/1:0:1:3e20:2ee0:13e:820000:0:0:0:
