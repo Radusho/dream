@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,M1
 #EXTVLCOPT:network-caching=1000
-http://78.109.104.240:8000/play/a0bs/index.m3u8?HasBahCa.m3u8
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1445?checkedby:iptvcat.com
 #EXTINF:0,M2
 #EXTVLCOPT:network-caching=1000
 http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8
@@ -17,16 +17,10 @@ https://streaming.mytvback.com:443/channel006/stream.m3u8
 #EXTINF:0,M5 Hungary
 #EXTVLCOPT:network-caching=1000
 http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8
-#EXTINF:0,Duna TV
-#EXTVLCOPT:network-caching=1000
-https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8
 #EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
-rtp://239.186.70.205:10000
-#EXTINF:0,Duna World
-#EXTVLCOPT:network-caching=1000
-https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1431?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD HD
-rtp://239.186.68.47:10000
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1432?checkedby:iptvcat.com
 #EXTINF:0,Film+ HD
 #EXTVLCOPT:network-caching=1000
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
@@ -48,6 +42,9 @@ https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:0,TV2
 #EXTVLCOPT:network-caching=1000
 http://u5755.cc:5575/live/hl02/playlist.m3u8
+#EXTINF:0,FEM3
+#EXTVLCOPT:network-caching=1000
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1447?checkedby:iptvcat.com
 #EXTINF:0,Sorozat+
 #EXTVLCOPT:network-caching=1000
 https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
