@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/hu/tvmusor.hu.epg.xml"
 #EXTINF:0,M1
 #EXTVLCOPT:network-caching=1000
 https://c401-node61-cdn.connectmedia.hu/1000/11e079dbfaad29603a23349ad5b26c2a/627aa712/index.m3u8
