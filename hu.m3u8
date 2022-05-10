@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,M1
 #EXTVLCOPT:network-caching=1000
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1445?checkedby:iptvcat.com
+https://c401-node61-cdn.connectmedia.hu/1000/11e079dbfaad29603a23349ad5b26c2a/627aa712/index.m3u8
 #EXTINF:0,M2
 #EXTVLCOPT:network-caching=1000
 http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8
@@ -39,18 +39,57 @@ https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:0,RTL Gold
 #EXTVLCOPT:network-caching=1000
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://92.240.234.211:4516/
+#EXTINF:0,HBO 3
+#EXTVLCOPT:network-caching=1000
+http://92.240.234.211:4517/
+#EXTINF:0,Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://80.96.25.2:2022/play/a039/index.m3u8
 #EXTINF:0,TV2
 #EXTVLCOPT:network-caching=1000
-http://u5755.cc:5575/live/hl02/playlist.m3u8
+http://152.66.115.226:33390/bysid/202
 #EXTINF:0,FEM3
 #EXTVLCOPT:network-caching=1000
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1447?checkedby:iptvcat.com
+https://streaming.mytvback.com:443/stream/Ap6M2qRegvLgZvs8ZJjFEQ/1652225685/channel016/stream.m3u8
 #EXTINF:0,Sorozat+
 #EXTVLCOPT:network-caching=1000
 https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 #EXTINF:0,Izaura TV
 #EXTVLCOPT:network-caching=1000
-http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
+http://213.81.201.113:8082/bysid/31223
+#EXTINF:0,Viasat History
+#EXTVLCOPT:network-caching=1000
+http://80.96.25.2:2022/play/a04i/index.m3u8
+#EXTINF:0,Spectrum Home
+#EXTVLCOPT:network-caching=1000
+http://152.66.115.226:33390/bysid/207
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/classicstv.png",Classics TV
 #EXTVLCOPT:network-caching=1000
-https://stream.diazol.hu:7152/hls/live.m3u8
+https://s03.diazol.hu:7152/hls/live.m3u8
+#EXTINF:0,Budapest Europe Television
+#EXTVLCOPT:network-caching=1000
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:0,Live Cam - Budapest - Lánchíd
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/hotelvictoria2/index.m3u8
+#EXTINF:0,Live Cam - Budapest - Műegyetem rkp
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/thuthu/index.m3u8
+#EXTINF:0,Live Cam - Budapest - Parlament
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/hotelvictoria/index.m3u8
+#EXTINF:0,Live Cam - Budapest - Újhegy
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/kael_x/index.m3u8
+#EXTINF:0,Live Cam - Budapest XI - Schönherz
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/schonherz1/index.m3u8
+#EXTINF:0,Live Cam - Balatonalmádi
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/kvaczko/index.m3u8
+#EXTINF:0,Live Cam - Balatonföldvár
+#EXTVLCOPT:network-caching=1000
+https://stream.idokep.hu:443/live/smartwifi3/index.m3u8
