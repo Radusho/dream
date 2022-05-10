@@ -48,7 +48,7 @@ http://92.240.234.211:4517/
 #EXTINF:0,Epic Drama (HD)
 #EXTVLCOPT:network-caching=1000
 http://80.96.25.2:2022/play/a039/index.m3u8
-#EXTINF:0,TV2
+#EXTINF:0,TV2.hu
 #EXTVLCOPT:network-caching=1000
 http://152.66.115.226:33390/bysid/202
 #EXTINF:0,FEM3
