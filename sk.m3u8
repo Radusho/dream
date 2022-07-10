@@ -14,7 +14,7 @@ https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",TVWAU.sk
 #EXTVLCOPT:network-caching=1000
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",CT1HD.cz
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",CT1.cz
 #EXTVLCOPT:network-caching=1000
 http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",RTVS1.sk
