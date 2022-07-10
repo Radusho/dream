@@ -57,3 +57,11 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=213f9b5775ca16
 http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/eurosport.png",Eurosport 1
 http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:0 type="stream",Eurosport 2
+http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:0 type="stream" tvg-name="Eurosport" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport1hdaustria.png",Eurosport 1
+http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:0 type="stream" tvg-name="Eurosport 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/britisheurosport2hd.png",Eurosport 2
+http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+#EXTINF:0 type="stream" tvg-name="XXX1" tvg-logo="https://epg.ovh/logo/xxxVOD1.png" tvg-country="PL",XXX1
+http://92.233.53.80:8001/1:0:1:0043:1964:13E:820000:0:0:0:
