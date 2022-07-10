@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",ČT1 (1080p)
+http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",ČT1
 #EXTVLCOPT:network-caching=1000
 https://parrotstream.tk/CT/ct1.m3u8
@@ -54,9 +57,11 @@ http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://ip2121.com:8081/live/cinemax/playlist.m3u8 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/NBC.png",NBCEast.us
-#EXTVLCOPT:network-caching=1000
 https://ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NBC&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69
-
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://polar.cz/images/layout/header/logo.png" group-title="Undefined",Polar TV (1080p)
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
 #EXTINF:0,Viasat Explore
 #EXTVLCOPT:network-caching=1000
 https://parrotstream.tk/Viasat/Explore.m3u8
