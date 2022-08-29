@@ -7,7 +7,7 @@ http://cdnx1.plusx.tv:8880/144/mono.m3u8?token=35961652592f488c012222
 http://cdnx1.plusx.tv:8880/143/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="TV Polonia" tvg-logo="http://s19.postimg.cc/bk7sgzn9v/TVP_Polonia.png",TVP Polonia
 http://cdnx1.plusx.tv:8880/137/mono.m3u8?token=35961652592f488c012222
-#EXTINF:0 type="stream" tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="https://epg.ovh/logo/TVP+HD.png",Tvp HD
+#EXTINF:0 type="stream" tvg-name="TVP HD" tvg-logo="https://epg.ovh/logo/TVP+HD.png",TVP HD
 http://cdnx1.plusx.tv:8880/141/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Polsat" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsathd.png",Polsat
 http://cdnx1.plusx.tv:8880/203/mono.m3u8?token=35961652592f488c012222
