@@ -1,22 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/cinemax.png",Cinemax
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/cinemax-2.png",Cinemax 2
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/hbo.png",HBO
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=hbo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/hbo-2.png",HBO 2
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 tvg-logo="https://internetowa.tv/img/logo/hbo-3.png",HBO 3
-#EXTVLCOPT:network-caching=1000
-http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemaxhd.png",Cinemax HD
 #EXTVLCOPT:network-caching=1000
-http://83.238.167.113:8001/1:0:1:1136:2af8:13E:820000:0:0:0:
+http://cdnx1.plusx.tv:8880/287/mono.m3u8?token=35961652592f488c012222
+#EXTINF:0 tvg-name="Cinemax 2 HD" tvg-logo="https://epg.ovh/logo/Cinemax+2.png",Cinemax 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdnx1.plusx.tv:8880/288/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Cinemax 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemax2hd.png",Cinemax 2
 http://83.238.167.113:8001/1:0:1:c26:1e78:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="HBO" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo1hd.png",HBO
@@ -30,10 +18,10 @@ http://83.238.167.113:8001/1:0:1:e09:2d50:13e:820000:0:0:0:
 http://83.238.167.113:8001/1:0:1:e0a:2d50:13e:820000:0:0:0:
 #EXTINF:0,HBO HD
 #EXTVLCOPT:network-caching=1000
-http://82.197.212.210:8000/play/a11d/index.m3u8
+http://cdnx1.plusx.tv:8880/243/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0,HBO2 HD
 #EXTVLCOPT:network-caching=1000
-http://194.76.186.32:8030/play/a002/index.m3u8
+http://cdnx1.plusx.tv:8880/246/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0,HBO3 HD
 #EXTVLCOPT:network-caching=1000
-http://194.76.186.32:8030/play/a003/index.m3u8
+http://cdnx1.plusx.tv:8880/245/mono.m3u8?token=35961652592f488c012222
