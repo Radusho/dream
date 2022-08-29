@@ -55,6 +55,12 @@ http://cdnx1.plusx.tv:8880/282/mono.m3u8?token=35961652592f488c012222
 http://cdnx1.plusx.tv:8880/279/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Canal+ Dokument" tvg-logo="https://epg.ovh/logo/Canal++Dokument.png",CanalPlusDokument.pl
 http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=35961652592f488c012222
+#EXTINF:0 type="stream" tvg-logo="https://epg.ovh/logo/Canal+.png",Canal+ Premium
+http://cdnx1.plusx.tv:8880/295/mono.m3u8?token=35961652592f488c012222
+#EXTINF:0 type="stream" tvg-logo="https://epg.ovh/logo/Canal++1.png",Canal+ 1
+http://cdnx1.plusx.tv:8880/302/mono.m3u8?token=35961652592f488c012222
+#EXTINF:0 type="stream" tvg-name="Canal+ Film HD" tvg-logo="https://epg.ovh/logo/Canal++Film.png",Canal+ Film
+http://cdnx1.plusx.tv:8880/296/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Animal Planet" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/animalplnthd.png",Animal Planet
 http://cdnx1.plusx.tv:8880/317/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-logo="https://epg.ovh/logo/Eurosport+HD.png",Eurosport 1
