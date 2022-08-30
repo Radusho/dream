@@ -41,10 +41,10 @@ http://cdnx1.plusx.tv:8880/278/mono.m3u8?token=35961652592f488c012222
 http://cdnx1.plusx.tv:8880/276/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-logo="https://epg.ovh/logo/scifihd.png",Sci Fi
 http://cdnx1.plusx.tv:8880/177/mono.m3u8?token=35961652592f488c012222
-#EXTINF:0 type="stream" tvg-name="Viasat Explorer" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasatexplorehd.png",Polsat Viasat Explore
+#EXTINF:0 type="stream" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasatexplorehd.png",Polsat Viasat Explore
 http://cdnx1.plusx.tv:8880/185/mono.m3u8?token=35961652592f488c012222
-#EXTINF:0 type="stream" tvg-name="Viasat History" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasathistoryhd.png",Polsat Viasat History
-http://83.238.167.113:8001/1:0:1:c20:1e78:71:820000:0:0:0:
+#EXTINF:0 type="stream" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasathistoryhd.png",Polsat Viasat History
+http://cdnx1.plusx.tv:8880/184/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png",Polsat Viasat Nature
 http://cdnx1.plusx.tv:8880/183/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="National Geographic" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/natgeohdcz.png",National Geographic
