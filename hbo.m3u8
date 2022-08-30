@@ -2,10 +2,11 @@
 #EXTINF:0 type="stream" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemaxhd.png",Cinemax HD
 #EXTVLCOPT:network-caching=1000
 http://cdnx1.plusx.tv:8880/287/mono.m3u8?token=35961652592f488c012222
-#EXTINF:0 tvg-name="Cinemax 2 HD" tvg-logo="https://epg.ovh/logo/Cinemax+2.png",Cinemax 2 HD
+#EXTINF:0 type="stream" tvg-name="Cinemax 2 HD" tvg-logo="https://epg.ovh/logo/Cinemax+2.png",Cinemax 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cdnx1.plusx.tv:8880/288/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Cinemax 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemax2hd.png",Cinemax 2
+#EXTVLCOPT:network-caching=1000
 http://83.238.167.113:8001/1:0:1:c26:1e78:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="HBO" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hbo1hd.png",HBO
 #EXTVLCOPT:network-caching=1000
