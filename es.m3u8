@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:0 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP",ES: EUROSPORT 1 FHD
+http://44583220135290348.nicehos.xyz:80/jj08164/7308405171/290348
+#EXTINF:0 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP",EUROSPORT 1 HD
+http://44583220135290349.nicehos.xyz:80/jj08164/7308405171/290349
+#EXTINF:0 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP",EUROSPORT 1 SD
+http://44583220135290350.nicehos.xyz:80/jj08164/7308405171/290350
+#EXTINF:0 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2",ES: EUROSPORT 2 FHD
+http://44583220135290351.nicehos.xyz:80/jj08164/7308405171/290351
+#EXTINF:0 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2",EUROSPORT 2 HD
+http://44583220135290352.nicehos.xyz:80/jj08164/7308405171/290352
+#EXTINF:0 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2",EUROSPORT 2 SD
+http://44583220135290353.nicehos.xyz:80/jj08164/7308405171/290353
