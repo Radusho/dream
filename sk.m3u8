@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/tvma.png",TVMarkiza.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/tvma.png",Markiza.sk
 #EXTVLCOPT:network-caching=1000
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
-#EXTINF:0,JojFamily.sk
+#EXTINF:0,JOJFamilyHD.sk
 #EXTVLCOPT:network-caching=1000
 http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:0,TVJoj.sk
+#EXTINF:0,TVJOJHD.sk
 #EXTVLCOPT:network-caching=1000
 https://nn.geo.joj.sk/live/hls/joj-720.m3u8
-#EXTINF:0,JojPlus.sk
+#EXTINF:0,JOJPlusHD.sk
 #EXTVLCOPT:network-caching=1000
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",TVWAU.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",JOJWAUHD.sk
 #EXTVLCOPT:network-caching=1000
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:0,JOJ24.sk
+#EXTINF:0,JOJ24HD.sk
 #EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",CT1.cz
 #EXTVLCOPT:network-caching=1000
 http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",RTVS1.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",JednotkaHD.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv2.png",RTVS2.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv2.png",DvojkaHD.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/rtvs24a.png",RTVS24.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/rtvs24a.png",24HD.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
-#EXTINF:0 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png",RTVS Šport
+#EXTINF:0 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png",SportHD.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=15
 #EXTINF:0,TA3.sk
