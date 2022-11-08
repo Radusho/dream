@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru.xml"
 #EXTINF:0,Россия 1
 #EXTVLCOPT:network-caching=1000
 https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8
@@ -56,7 +56,7 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:0 tvg-id="TV1000RusskoeKino.se" tvg-logo="https://i.imgur.com/iCUmr4k.png",TV1000 Русское кино
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ngw.png",NationalGeographicWildRussia.us
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ngw.png",NationalGeographicWildSerbia.rs
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/id/NatGeo.id.png",National Geographic Russia HD
