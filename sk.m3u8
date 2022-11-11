@@ -20,13 +20,13 @@ https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",CT1.cz
 #EXTVLCOPT:network-caching=1000
 http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",JednotkaHD.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",Jednotka.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv2.png",DvojkaHD.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv2.png",Dvojka.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/rtvs24a.png",24HD.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/rtvs24a.png",24.sk
 #EXTVLCOPT:network-caching=1000
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
 #EXTINF:0 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png",SportHD.sk
