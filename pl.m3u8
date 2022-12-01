@@ -48,13 +48,13 @@ http://83.238.167.113:8001/1:0:1:c20:1e78:71:820000:0:0:0:
 #EXTINF:0 tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png",Polsat Viasat Nature
 http://cdnx1.plusx.tv:8880/183/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="National Geographic" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/natgeohdcz.png",National Geographic
-http://cdnx1.plusx.tv:8880/221/mono.m3u8?token=35961652592f488c012222
+http://152.66.115.226:33390/bysid/206
 #EXTINF:0 type="stream" tvg-name="Nat Geo Wild HD" tvg-logo="http://s19.postimg.cc/ujjv0zus3/Nat_Geo_Wild.png",Nat Geo Wild
 http://cdnx1.plusx.tv:8880/223/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Discovery" tvg-logo="http://s19.postimg.cc/lnw1trn2r/Discovery_Channel.png",Discovery
-http://cdnx1.plusx.tv:8880/282/mono.m3u8?token=35961652592f488c012222
+http://91.237.170.202:11000/play/11351
 #EXTINF:0 type="stream" tvg-name="Discovery Science" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoverysciencehd.png",Discovery Science
-http://cdnx1.plusx.tv:8880/279/mono.m3u8?token=35961652592f488c012222
+http://91.237.170.202:11000/play/11352
 #EXTINF:0 type="stream" tvg-name="Canal+ Dokument" tvg-logo="https://epg.ovh/logo/Canal++Dokument.png",CanalPlusDokument.pl
 http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-logo="https://epg.ovh/logo/Canal+.png",Canal+ Premium
@@ -64,7 +64,7 @@ http://cdnx1.plusx.tv:8880/302/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Canal+ Film HD" tvg-logo="https://epg.ovh/logo/Canal++Film.png",Canal+ Film
 http://cdnx1.plusx.tv:8880/296/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 type="stream" tvg-name="Animal Planet" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/animalplnthd.png",Animal Planet
-http://cdnx1.plusx.tv:8880/317/mono.m3u8?token=35961652592f488c012222
+http://91.237.170.202:11000/play/1354
 #EXTINF:0,AdultIPTVnetMILF.us
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:0 tvg-logo="https://epg.ovh/logo/Eurosport+HD.png",Eurosport 1
