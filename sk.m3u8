@@ -2,18 +2,24 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/tvma.png",Markiza.sk
 #EXTVLCOPT:network-caching=1000
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:0,MarkizaDajto.sk
+#EXTVLCOPT:network-caching=1000
+http://213.81.133.133:8080/dajto/index.m3u8
+#EXTINF:0,JOJCinema.sk
+#EXTVLCOPT:network-caching=1000
+https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
 #EXTINF:0,JOJFamily.sk
 #EXTVLCOPT:network-caching=1000
 http://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:0,TVJOJ.sk
 #EXTVLCOPT:network-caching=1000
-https://nn.geo.joj.sk/live/hls/joj-720.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/plus.png",JOJPlusHD.sk
+https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/plus.png",JOJPlus.sk
 #EXTVLCOPT:network-caching=1000
-https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",JOJWAUHD.sk
+https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",JOJWAU.sk
 #EXTVLCOPT:network-caching=1000
-https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/joj24.png",JOJ24.sk
 #EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
