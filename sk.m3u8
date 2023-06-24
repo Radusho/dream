@@ -14,8 +14,6 @@ https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
 https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/joj24.png",JOJ24.sk
 https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",CT1.cz
-http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",Jednotka.sk
 https://sktv-forwarders.7m.pl/get.php?x=STV1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv2.png",Dvojka.sk
