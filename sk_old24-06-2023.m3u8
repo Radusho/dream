@@ -1,6 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.ovh/pl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTM3U
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:0,MarkizaDajto.sk
 http://213.81.133.133:8080/dajto/index.m3u8
 #EXTINF:0,JOJCinema.sk
@@ -22,6 +21,7 @@ https://sktv-forwarders.7m.pl/get.php?x=STV2
 #EXTINF:0,CTart.cz
 https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTINF:0,CT24.cz
+#EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=CT24
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/rtvs24a.png",24.sk
 https://sktv-forwarders.7m.pl/get.php?x=STV24
