@@ -1,36 +1,24 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/tvma.png",Markiza.sk
-#EXTVLCOPT:network-caching=1000
-http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:0,MarkizaDajto.sk
-#EXTVLCOPT:network-caching=1000
 http://213.81.133.133:8080/dajto/index.m3u8
 #EXTINF:0,JOJCinema.sk
-#EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
 #EXTINF:0,JOJFamily.sk
-#EXTVLCOPT:network-caching=1000
 http://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:0,TVJOJ.sk
-#EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/plus.png",JOJPlus.sk
-#EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/wau.png",JOJWAU.sk
-#EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/joj24.png",JOJ24.sk
-#EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",CT1.cz
-#EXTVLCOPT:network-caching=1000
 http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv1.png",Jednotka.sk
-#EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=STV1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/stv2.png",Dvojka.sk
-#EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=STV2
 #EXTINF:0,CTart.cz
 https://sktv-forwarders.7m.pl/get.php?x=CTart
@@ -38,24 +26,16 @@ https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=CT24
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/rtvs24a.png",24.sk
-#EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=STV24
 #EXTINF:0 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png",Sport.sk
-#EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=SPORT
 #EXTINF:0,JOJSport.sk
-#EXTVLCOPT:network-caching=1000
 https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
 #EXTINF:0,TA3.sk
-#EXTVLCOPT:network-caching=1000
 http://sktv-forwarders.7m.pl/get.php?x=TA3
 #EXTINF:0,CNNPrimaNews.cz
-#EXTVLCOPT:network-caching=1000
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/telke.png",telKE
-#EXTVLCOPT:network-caching=1000
 https://tvgo02.antik.sk/live/test_telke/playlist_key_url.m3u8
 #EXTINF:0,NR SR
-#EXTVLCOPT:network-caching=1000
 https://sktv-forwarders.7m.pl/get.php?x=NR_SR
-
