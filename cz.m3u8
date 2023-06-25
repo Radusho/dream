@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/czech.xml"
 #EXTVLCOPT:network-caching=1000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/ct1.png",ČT1 (1080p)
 http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
