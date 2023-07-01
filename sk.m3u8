@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/czech.xml,https://iptvx.one/epg/epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/cz/tvprofil.com.epg.xml,https://epg.wz.cz/guide.xml"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0,MarkizaDajto.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/dajto.png",MarkizaDajto.sk
 http://213.81.133.133:8080/dajto/index.m3u8
-#EXTINF:0,JOJCinema.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/jojcinema.png",JOJCinema.sk
 https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
-#EXTINF:0,JOJFamily.sk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/family.png",JOJFamily.sk
 http://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:0,TVJOJ.sk
 https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
