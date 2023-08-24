@@ -1,67 +1,66 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/hungary.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/hu/tvmusor.hu.epg.xml"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0 tvg-name="M1" tvg-id="M1.hu",M1
+#EXTINF:0 tvg-name="M1" tvg-id="M1.hu" group-title="Hungary",M1
 http://194.76.186.33:8000/play/a00w/index.m3u8
-#EXTINF:0 tvg-name="M2" tvg-id="M2.hu",M2
+#EXTINF:0 tvg-name="M2" tvg-id="M2.hu" group-title="Hungary",M2
 http://146.59.85.40:89/m2/index.m3u8
-#EXTINF:0 tvg-name="M4" tvg-id="M4Sport.hu",M4 Sport
+#EXTINF:0 tvg-name="M4" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
 http://194.76.186.33:8000/play/a02c/index.m3u8
-#EXTINF:0 tvg-name="M5" tvg-id="M5.hu",M5
+#EXTINF:0 tvg-name="M5" tvg-id="M5.hu" group-title="Hungary",M5
 http://194.76.186.33:8000/play/a030/index.m3u8
-#EXTINF:0,Duna HD
+#EXTINF:0 group-title="Hungary",Duna HD
 http://194.76.186.33:8000/play/a029/index.m3u8
-#EXTINF:0 tvg-name="Duna TV" tvg-id="DunaTV.hu",DunaTV
+#EXTINF:0 tvg-name="Duna TV" tvg-id="DunaTV.hu" group-title="Hungary",Duna TV
 http://194.76.186.33:8000/play/a01u/index.m3u8
-#EXTINF:0 tvg-name="Duna World" tvg-id="DunaWorld.hu",Duna World
+#EXTINF:0 tvg-name="Duna World" tvg-id="DunaWorld.hu" group-title="Hungary",Duna World
 http://194.76.186.33:8000/play/a01i/index.m3u8
-#EXTINF:0 tvg-name="Eurosport1 Hungary" tvg-id="Eurosport1Hungary.hu",Eurosport1
+#EXTINF:0 tvg-name="Eurosport1 Hungary" tvg-id="Eurosport1Hungary.hu" group-title="Hungary",Eurosport1
 http://194.76.186.33:8000/play/a03i/index.m3u8
-#EXTINF:0 tvg-name="Eurosport2 Hungary" tvg-id="Eurosport2Hungary.hu",Eurosport2
+#EXTINF:0 tvg-name="Eurosport2 Hungary" tvg-id="Eurosport2Hungary.hu" group-title="Hungary",Eurosport2
 http://194.76.186.33:8000/play/a03j/index.m3u8
-#EXTINF:0 tvg-name="Film Plus Hungary" tvg-id="FilmPlusHungary.hu",Film+
+#EXTINF:0 tvg-name="Film Plus Hungary" tvg-id="FilmPlusHungary.hu" group-title="Hungary",Film+
 http://194.76.186.33:8000/play/a019/index.m3u8
-#EXTINF:0 tvg-name="CoolTV" tvg-id="CoolTV.hu",Cool TV
+#EXTINF:0 tvg-name="CoolTV" tvg-id="CoolTV.hu" group-title="Hungary",Cool TV
 http://194.76.186.33:8000/play/a01l/index.m3u8
-#EXTINF:0 tvg-name="RTL Hungary" tvg-id="RTLHungary.hu" tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/RTLhu.png",RTL Hungary
+#EXTINF:0 tvg-name="RTL Hungary" tvg-id="RTLHungary.hu" tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/RTLhu.png" group-title="Hungary",RTL Hungary
 http://194.76.186.33:8000/play/a01e/index.m3u8
-#EXTINF:0 tvg-name="RTLKETTO" tvg-id="RTLKETTO.hu",RTL II
+#EXTINF:0 tvg-name="RTLKETTO" tvg-id="RTLKETTO.hu" group-title="Hungary",RTL II
 http://194.76.186.33:8000/play/a05i/index.m3u8
-#EXTINF:0 tvg-name="RTLHarom" tvg-id="RTLHarom.hu",RTL III
+#EXTINF:0 tvg-name="RTLHarom" tvg-id="RTLHarom.hu" group-title="Hungary",RTL III
 http://194.76.186.33:8000/play/a05d/index.m3u8
-#EXTINF:0 tvg-name="RTLGold" tvg-id="RTLGold.hu",RTL Gold
+#EXTINF:0 tvg-name="RTLGold" tvg-id="RTLGold.hu" group-title="Hungary",RTL Gold
 http://194.76.186.33:8000/play/a05h/index.m3u8
-#EXTINF:0 tvg-name="ComedyCentralHungary" tvg-id="ComedyCentralHungary.hu",Comedy Central HU
+#EXTINF:0 tvg-name="ComedyCentralHungary" tvg-id="ComedyCentralHungary.hu" group-title="Hungary",Comedy Central HU
 http://194.76.186.33:8000/play/a04s/index.m3u8
-#EXTINF:0 tvg-name="ComedyCentralFamilyHungary" tvg-id="ComedyCentralFamilyHungary.hu",Comedy Central Family HU
+#EXTINF:0 tvg-name="ComedyCentralFamilyHungary" tvg-id="ComedyCentralFamilyHungary.hu" group-title="Hungary",Comedy Central Family HU
 http://194.76.186.33:8000/play/a04r/index.m3u8
-#EXTINF:0 tvg-name="TV2" tvg-id="TV2.hu",TV2
+#EXTINF:0 tvg-name="TV2" tvg-id="TV2.hu" group-title="Hungary",TV2
 http://194.76.186.33:8000/play/a01f/index.m3u8
-#EXTINF:0 tvg-name="NationalGeographicHungary" tvg-id="NationalGeographicHungary.hu",National Geographic HU
+#EXTINF:0 tvg-name="NationalGeographicHungary" tvg-id="NationalGeographicHungary.hu" group-title="Hungary",National Geographic HU
 http://194.76.186.33:8000/play/a02t/index.m3u8
-#EXTINF:0 tvg-name="NationalGeographicWildHungary" tvg-id="NationalGeographicWildHungary.hu",NG Wild HU
+#EXTINF:0 tvg-name="NationalGeographicWildHungary" tvg-id="NationalGeographicWildHungary.hu" group-title="Hungary",NG Wild HU
 http://194.76.186.33:8000/play/a01y/index.m3u8
-#EXTINF:0 tvg-name="SorozatPlus" tvg-id="SorozatPlus.hu",Sorozat+
+#EXTINF:0 tvg-name="SorozatPlus" tvg-id="SorozatPlus.hu" group-title="Hungary",Sorozat+
 http://194.76.186.33:8000/play/a05e/index.m3u8
-#EXTINF:0 tvg-name="IzauraTV" tvg-id="IzauraTV.hu",Izaura TV
+#EXTINF:0 tvg-name="IzauraTV" tvg-id="IzauraTV.hu" group-title="Hungary",Izaura TV
 http://194.76.186.33:8000/play/a05j/index.m3u8
-#EXTINF:0 tvg-name="SpektrumHomeHungary" tvg-id="SpektrumHomeHungary.hu",Spektrum Home HU
+#EXTINF:0 tvg-name="SpektrumHomeHungary" tvg-id="SpektrumHomeHungary.hu" group-title="Hungary",Spektrum Home HU
 http://194.76.186.33:8000/play/a01t/index.m3u8
-#EXTINF:0 tvg-name="TV4" tvg-id="TV4.hu",TV4.hu
+#EXTINF:0 tvg-name="TV4" tvg-id="TV4.hu" group-title="Hungary",TV4.hu
 http://194.76.186.33:8000/play/a02z/index.m3u8
-#EXTINF:0,Budapest Europe Television
+#EXTINF:0 group-title="Hungary",Budapest Europe Television
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
-#EXTINF:0,Live Cam - Budapest - Parlament
+#EXTINF:0 group-title="Hungary",Live Cam - Budapest - Parlament
 https://stream.idokep.hu:443/live/hotelvictoria/index.m3u8
-#EXTINF:0,Live Cam - Budapest - Lánchíd
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 group-title="Hungary",Live Cam - Budapest - Lánchíd
 https://stream.idokep.hu:443/live/hotelvictoria2/index.m3u8
-#EXTINF:0,Live Cam - Budapest - Műegyetem rkp
+#EXTINF:0 group-title="Hungary",Live Cam - Budapest - Műegyetem rkp
 https://stream.idokep.hu:443/live/thuthu/index.m3u8
-#EXTINF:0,Live Cam - Budapest - Újhegy
+#EXTINF:0 group-title="Hungary",Live Cam - Budapest - Újhegy
 https://stream.idokep.hu:443/live/kael_x/index.m3u8
-#EXTINF:0,Live Cam - Budapest XI - Schönherz
+#EXTINF:0 group-title="Hungary",Live Cam - Budapest XI - Schönherz
 https://stream.idokep.hu:443/live/schonherz1/index.m3u8
-#EXTINF:0,Live Cam - Balatonalmádi
+#EXTINF:0 group-title="Hungary",Live Cam - Balatonalmádi
 https://stream.idokep.hu:443/live/kvaczko/index.m3u8
-#EXTINF:0,Live Cam - Balatonföldvár
+#EXTINF:0 group-title="Hungary",Live Cam - Balatonföldvár
 https://stream.idokep.hu:443/live/smartwifi3/index.m3u8
