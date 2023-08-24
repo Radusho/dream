@@ -1,18 +1,13 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/hungary.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/hu/tvmusor.hu.epg.xml"
 #EXTINF:0,M1.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a00w/index.m3u8
 #EXTINF:0,M2.hu
-#EXTVLCOPT:network-caching=1000
 http://146.59.85.40:89/m2/index.m3u8
 #EXTINF:0,M4SportPlus.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a02p/index.m3u8
 #EXTINF:0,M5.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a030/index.m3u8
 #EXTINF:0,M5 Hungary
-#EXTVLCOPT:network-caching=1000
 http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8
 #EXTINF:0,Duna HD
 http://194.76.186.33:8000/play/a029/index.m3u8
@@ -21,64 +16,44 @@ http://194.76.186.33:8000/play/a01u/index.m3u8
 #EXTINF:0,DunaWorld.hu
 http://194.76.186.33:8000/play/a01i/index.m3u8
 #EXTINF:0,Eurosport1Hungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a03i/index.m3u8
 #EXTINF:0,Eurosport2Hungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a03j/index.m3u8
 #EXTINF:0,FilmPlusHungary.lu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a019/index.m3u8
 #EXTINF:0,CoolTV.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a01l/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Radusho/dream/main/logo/RTLhu.png",RTLHungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a01e/index.m3u8
 #EXTINF:0,RTLKETTO.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a05i/index.m3u8
 #EXTINF:0,RTLHarom.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a05d/index.m3u8
 #EXTINF:0,RTL Gold
-#EXTVLCOPT:network-caching=1000
 http://213.81.201.113:8082/bysid/31219
 #EXTINF:0,RTLGold.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a05h/index.m3u8
 #EXTINF:0,ComedyCentralHungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a04s/index.m3u8
 #EXTINF:0,ComedyCentralFamilyHungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a04r/index.m3u8
 #EXTINF:0,TV2.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a01f/index.m3u8
 #EXTINF:0,NationalGeographicHungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a02t/index.m3u8
 #EXTINF:0,NationalGeographicWildHungary.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a01y/index.m3u8
 #EXTINF:0,SorozatPlus.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a05e/index.m3u8
 #EXTINF:0,Izaura TV
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a05j/index.m3u8
 #EXTINF:0,Spektrum Home +
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a01t/index.m3u8
 #EXTINF:0,TV4.hu
-#EXTVLCOPT:network-caching=1000
 http://194.76.186.33:8000/play/a02z/index.m3u8
 #EXTINF:0,Budapest Europe Television
-#EXTVLCOPT:network-caching=1000
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:0,Live Cam - Budapest - Parlament
-#EXTVLCOPT:network-caching=1000
 https://stream.idokep.hu:443/live/hotelvictoria/index.m3u8
 #EXTINF:0,Live Cam - Budapest - Lánchíd
 #EXTVLCOPT:network-caching=1000
