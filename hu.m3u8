@@ -54,11 +54,11 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 https://stream.idokep.hu:443/live/hotelvictoria/index.m3u8
 #EXTINF:0 tvg-name="Lánc Híd" group-title="Hungary Live Cam",LáncHíd
 https://stream.idokep.hu:443/live/hotelvictoria2/index.m3u8
-#EXTINF:0 tvg-name="Műegyetem rkp, Budapest" group-title="Hungary Live Cam",Műegyetem rkp
+#EXTINF:0 tvg-name="Műegyetem rkp Budapest" group-title="Hungary Live Cam",Műegyetem rkp
 https://stream.idokep.hu:443/live/thuthu/index.m3u8
-#EXTINF:0 tvg-name="Újhegy, Budapest" group-title="Hungary Live Cam",Újhegy
+#EXTINF:0 tvg-name="Újhegy Budapest" group-title="Hungary Live Cam",Újhegy
 https://stream.idokep.hu:443/live/kael_x/index.m3u8
-#EXTINF:0 tvg-name="Schönherz, Budapest XI" group-title="Hungary Live Cam",Schönherz
+#EXTINF:0 tvg-name="Schönherz Budapest XI" group-title="Hungary Live Cam",Schönherz
 https://stream.idokep.hu:443/live/schonherz1/index.m3u8
 #EXTINF:0 tvg-name="Balatonalmádi" group-title="Hungary Live Cam",Balatonalmádi
 https://stream.idokep.hu:443/live/kvaczko/index.m3u8
