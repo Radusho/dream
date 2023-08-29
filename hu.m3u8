@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/hungary.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/hu/tvmusor.hu.epg.xml"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0 group-title="Hungary",Duna TV
+#EXTINF:0 group-title="Hungary",Duna HD
 http://194.76.186.33:8000/play/a029/index.m3u8
-#EXTINF:0 tvg-id="DunaTV.hu" group-title="Hungary",Duna HD
+#EXTINF:0 tvg-id="DunaTV.hu" group-title="Hungary",Duna
 http://194.76.186.33:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-id="DunaWorld.hu" group-title="Hungary",Duna World
 http://194.76.186.33:8000/play/a01i/index.m3u8
