@@ -50,17 +50,17 @@ http://194.76.186.33:8000/play/a01t/index.m3u8
 http://194.76.186.33:8000/play/a02z/index.m3u8
 #EXTINF:0 group-title="Hungary",Budapest Europe Television
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Parlament Budapest
+#EXTINF:0 tvg-name="Parlament" group-title="Hungary Live Cam",Parlament
 https://stream.idokep.hu:443/live/hotelvictoria/index.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Lánchíd Budapest
+#EXTINF:0 tvg-name="Lánc Híd" group-title="Hungary Live Cam",LáncHíd
 https://stream.idokep.hu:443/live/hotelvictoria2/index.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Műegyetem rkp Budapest
+#EXTINF:0 tvg-name="Műegyetem rkp, Budapest" group-title="Hungary Live Cam",Műegyetem rkp
 https://stream.idokep.hu:443/live/thuthu/index.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Újhegy Budapest
+#EXTINF:0 tvg-name="Újhegy, Budapest" group-title="Hungary Live Cam",Újhegy
 https://stream.idokep.hu:443/live/kael_x/index.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Schönherz Budapest XI
+#EXTINF:0 tvg-name="Schönherz, Budapest XI" group-title="Hungary Live Cam",Schönherz
 https://stream.idokep.hu:443/live/schonherz1/index.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Balatonalmádi
+#EXTINF:0 tvg-name="Balatonalmádi" group-title="Hungary Live Cam",Balatonalmádi
 https://stream.idokep.hu:443/live/kvaczko/index.m3u8
-#EXTINF:0 group-title="Hungary Live Cam",Balatonföldvár
+#EXTINF:0 tvg-name="Balatonföldvár" group-title="Hungary Live Cam",Balatonföldvár
 https://stream.idokep.hu:443/live/smartwifi3/index.m3u8
